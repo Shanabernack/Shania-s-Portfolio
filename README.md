@@ -1,18 +1,9 @@
-🌐 Mein Portfolio
-Willkommen in meinem Portfolio-Repository! Hier findest du eine Übersicht über meine Projekte, meine Fähigkeiten und ein paar persönliche Einblicke.
+# Portfolio
 
-🔍 Inhalte
+Hi there! This repository showcases a selection of my work, skills, and personal interests.
 
-🏠 Home: Eine Vorstellung meiner Person – Hobbys, Fähigkeiten, Berufsbezeichnung und ein paar persönliche Infos.
-
-💼 Projekte: Eine Sammlung meiner Arbeiten und Projekte.
-
-🖼️ Archiv: Eine Bildergalerie mit weiteren Einblicken.
-
-🌍 Sprache: Oben rechts kannst du zwischen Deutsch und Englisch wechseln.
-
-📷 Vorschau
-![Portfolio Vorschau](https://raw.githubusercontent.com/xxd1sc0rdd4ddyxx/Shania-s-Portfolio/main/images/vorschau.jpg)
-
-🙌 Credits
-Design-Template von HTML5UP.
+## Sections
+- **Home**: Short personal intro  
+- **Projects**: Ongoing & completed work  
+- **Archive**: Visuals & impressions  
+- **Language**: Switch between English and German (top right)
