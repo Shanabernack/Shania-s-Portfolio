@@ -247,7 +247,7 @@
         .bar-fill { height: 100%; background: #fff; }
         .tool-list { list-style: none; font-size: 0.8rem; color: #ccc; font-family: 'Share Tech Mono'; }
         .tool-list li { margin-bottom: 4px; display: flex; align-items: center; }
-        .tool-list li::before { content: '♡'; color: var(--kawaii-pink); margin-right: 5px; font-size: 0.8rem;}
+        .tool-list li::before { content: '★'; color: var(--kawaii-pink); margin-right: 5px; font-size: 0.8rem;}
 
         .sticker-diary { grid-column: span 7; background: #fff; color: #222; font-family: 'Caveat', cursive; font-size: 1.5rem; transform: rotate(-1deg); border-left: 5px solid #000; box-shadow: 8px 8px 0 #333; }
         .sticker-music { grid-column: span 4; background: #222; border: 1px dashed #fff; color: #fff; transform: rotate(-2deg); }
